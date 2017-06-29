@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockingControl", "DockingControl\DockingControl.csproj", "{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Debug|ARM.Build.0 = Debug|ARM
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Debug|ARM.Deploy.0 = Debug|ARM
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Debug|x64.ActiveCfg = Debug|x64
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Debug|x64.Build.0 = Debug|x64
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Debug|x64.Deploy.0 = Debug|x64
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Debug|x86.ActiveCfg = Debug|x86
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Debug|x86.Build.0 = Debug|x86
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Debug|x86.Deploy.0 = Debug|x86
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Release|ARM.ActiveCfg = Release|ARM
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Release|ARM.Build.0 = Release|ARM
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Release|ARM.Deploy.0 = Release|ARM
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Release|x64.ActiveCfg = Release|x64
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Release|x64.Build.0 = Release|x64
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Release|x64.Deploy.0 = Release|x64
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Release|x86.ActiveCfg = Release|x86
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Release|x86.Build.0 = Release|x86
+		{8FD9D50B-963C-4E2F-A4E1-6117F11ED0AA}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
